@@ -10,6 +10,9 @@ The last row is the member's email, used for alerting them automatically in case
 The webpage is simple and it's made in bootstrap, it contains just two selector, one for the member and one for the month, once clicked on "Confirm Payment" both you and member will receive a confirmed payment email, and the action will be saved in the "Logs" Sheet. 
 
 <img src="https://i.imgur.com/kFlqvmB.png"></img>
+<br>
+Logs Sheet:  
+
 <img src="https://i.imgur.com/jF8NlTV.png"></img>
 
 ## Conclusions
