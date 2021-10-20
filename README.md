@@ -1,5 +1,5 @@
 # Spotify Family Manager
-Simple Web App base on [Google Apps script](https://script.google.com/) to keep track of your friends' payments for the shared Spotify Family Plan.
+Simple Web App based on [Google Apps script](https://script.google.com/) to keep track of your friends' payments for the shared Spotify Family Plan.
 
 ## How Does it work
 The webapp uses a google sheet like a database, every row is a month and every column is a member, and TRUE/FALSE stands for month paid or not.
